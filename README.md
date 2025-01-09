@@ -4,9 +4,18 @@
 
 
 # Python-GA-Eng.-Civ.
-Projeto com intuito de associar os conteúdos de Geometria Analítica com suas aplicações na Engenharia Civil, no âmbito do Projeto de Monitoria 2024.1 e 2024.2 da UFAL - Campus do Sertão.
+Este produto educacional constitui um dos resultados do projeto Ações em prol das disciplinas de Geometria Analítica e Álgebra Linear, executado entre 08/2024 e 12/2024 com o apoio da PROGRAD/UFAL, por meio do Edital PROGRAD Nº 15/2024, sob a supervisão do Prof. Dr. Marcelo Pires.
 
 # Conteúdo
-
--placeholder
+##Apresentação Geral
+##Vetores
+##Operações com Vetores
+##Produto Escalar
+##Produto Vetorial
+##Produto Misto
+##A Reta
+##O Plano
+##Distâncias
+##Cônicas
+##Superfícies Quádricas
 
