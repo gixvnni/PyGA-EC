@@ -11,21 +11,37 @@ Este produto educacional constitui um dos resultados do projeto Ações em prol 
 
 ## Vetores
 
+Estudo e compreensão do conceito geral de vetores.
+
 ## Operações com Vetores
+
+Entendimento das básicas operações de vetores.
 
 ## Produto Escalar
 
+Aplicações gerais e entendimento do método algébrico e método geométrico.
+
 ## Produto Vetorial
+
+Explicação geral e aplicação do método dos versores e das determinantes.
 
 ## Produto Misto
 
+Conceito geral e aplicação dos diferentes métodos de resolução.
+
 ## A Reta
+
+Principais noções do estudo de reta e suas aplicações na Engenharia Civil.
 
 ## O Plano
 
+Principais noções do estudo dos planos e suas aplicações na Engenharia Civil.
+
 ## Distâncias
 
-## Cônicas
+Entendimento geral das diferentes aplicações de distâncias, e aplicação geral.
 
-## Superfícies Quádricas
+## Cônicas e Superfícies Quádricas
+
+Conceito geral e aplicação na Engenharia Civil.
 
