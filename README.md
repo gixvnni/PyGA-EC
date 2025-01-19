@@ -49,3 +49,10 @@ Conceito geral e aplicação na Engenharia Civil.
 ## Resoluções de problemas aplicados na Engenharia Civil 
 
 Lista de exercícios criada para entendimento da aplicação geral dos conceitos apresentados no repositório de forma prática na Engenharia Civil.
+
+
+
+|placeholder  | placeholder |
+| ------------- | ------------- |
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
