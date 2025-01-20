@@ -11,16 +11,16 @@ Para a utilização deste produto educacional, é necessiario acessar o reposit�
 
 # Conteúdo
 
-|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados|
-| ------------- | ------------- | ------------- | ------------- |
-| Vetores | X | X | X |
-| Produto Escalar | X | X | X |
-| Produto Vetorial | X | X | X |
-| Produto Misto | X | X | X |
-| Estudo da Reta | X | X | X |
-| Estudo do Plano | X | X |  |
-| Distâncias | X | X | X |
-| Cônicas e Quádricas | X | X |  |
+|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos |
+| ------------- | ------------- | ------------- | ------------- | ------------- |
+| Vetores | X | X | X | |
+| Produto Escalar | X | X | X | |
+| Produto Vetorial | X | X | X ||
+| Produto Misto | X | X | X | |
+| Estudo da Reta | X | X | X | |
+| Estudo do Plano | X | X |  | |
+| Distâncias | X | X | X | |
+| Cônicas e Quádricas | X | X |  | |
 
 
 
