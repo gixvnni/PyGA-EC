@@ -6,53 +6,18 @@
 # Python-GA-Eng.-Civ.
 Este produto educacional constitui um dos resultados do projeto Ações em prol das disciplinas de Geometria Analítica e Álgebra Linear, executado entre 08/2024 e 01/2025 com o apoio da PROGRAD/UFAL, por meio do Edital PROGRAD Nº 15/2024, sob a supervisão do Prof. Dr. Marcelo Pires.
 
-# Conteúdo
+# Pré-requsitos
+Para a utilização deste produto educacional, é necessiario acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde faz-se necessário que o estudante possua uma conta Google.
 
-## Apresentação Geral
+#Conteúdo
 
-## Vetores
+|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados|
+| Vetores | X | X | X |
+| Produto Escalar | X | X | X |
+| Produto Vetorial | X | X | X |
+| Produto Misto | X | X | X |
+| Estudo da Reta | X | X | X |
+| Estudo do Plano | X | X | X |
+| Distâncias | X | X | X |
+| Cônicas e Quádricas  X | X | X |
 
-Estudo e compreensão do conceito geral de vetores.
-
-## Operações com Vetores
-
-Entendimento das básicas operações de vetores.
-
-## Produto Escalar
-
-Aplicações gerais e entendimento do método algébrico e método geométrico.
-
-## Produto Vetorial
-
-Explicação geral e aplicação do método dos versores e das determinantes.
-
-## Produto Misto
-
-Conceito geral e aplicação dos diferentes métodos de resolução.
-
-## A Reta
-
-Principais noções do estudo de reta e suas aplicações na Engenharia Civil.
-
-## O Plano
-
-Principais noções do estudo dos planos e suas aplicações na Engenharia Civil.
-
-## Distâncias
-
-Entendimento geral das diferentes aplicações de distâncias, e aplicação geral.
-
-## Cônicas e Superfícies Quádricas
-
-Conceito geral e aplicação na Engenharia Civil.
-
-## Resoluções de problemas aplicados na Engenharia Civil 
-
-Lista de exercícios criada para entendimento da aplicação geral dos conceitos apresentados no repositório de forma prática na Engenharia Civil.
-
-
-
-|placeholder  | placeholder |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
