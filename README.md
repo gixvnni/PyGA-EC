@@ -9,7 +9,18 @@ Este produto educacional constitui um dos resultados do projeto Ações em prol 
 # Pré-requsitos
 Para a utilização deste produto educacional, é necessiario acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde faz-se necessário que o estudante possua uma conta Google.
 
-#Conteúdo
+# Conteúdo
+
+|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados|
+| ------------- | ------------- | ------------- | ------------- |
+| Vetores | X | X | X |
+| Produto Escalar | X | X | X |
+| Produto Vetorial | X | X | X |
+| Produto Misto | X | X | X |
+| Estudo da Reta | X | X | X |
+| Estudo do Plano | X | X | X |
+| Distâncias | X | X | X |
+| Cônicas e Quádricas  X | X | X |
 
 
 
