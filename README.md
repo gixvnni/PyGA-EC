@@ -15,7 +15,7 @@ Para a utilização deste produto educacional, é necessiario acessar o reposit�
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Vetores | X | X | X | |
 | Produto Escalar | X | X | X | |
-| Produto Vetorial | X | X | X ||
+| Produto Vetorial | X | X | X | |
 | Produto Misto | X | X | X | |
 | Estudo da Reta | X | X | X | |
 | Estudo do Plano | X | X |  | |
