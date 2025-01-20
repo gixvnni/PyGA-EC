@@ -11,7 +11,7 @@ Para a utilização deste produto educacional, é necessiario acessar o reposit�
 
 # Conteúdo
 
-|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos |
+|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos Tutoriais |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Vetores | X | X | X | |
 | Produto Escalar | X | X | X | |
