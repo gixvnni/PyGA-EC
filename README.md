@@ -9,6 +9,13 @@ Este produto educacional constitui um dos resultados do projeto Ações em prol 
 # Pré-requsitos
 Para a utilização deste produto educacional, é necessiario acessar o repositório no Github, e buscar o conteúdo desejado para visualização, e executá-lo através do ambiente disponibilizado no Google Colab, onde faz-se necessário que o estudante possua uma conta Google.
 
+# Como utilizar o Ambiente Digital
+
+
+
+https://github.com/user-attachments/assets/e98604a1-5961-44ec-b3e1-68e41bd84a10
+
+
 # Conteúdo
 
 |Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos Tutoriais |
