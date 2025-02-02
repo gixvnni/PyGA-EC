@@ -18,7 +18,7 @@ https://github.com/user-attachments/assets/e98604a1-5961-44ec-b3e1-68e41bd84a10
 
 # Conteúdo
 
-|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos Tutoriais |
+|Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos Explicativos: Problemas Resolvidos em Python|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | Vetores | X | X | X | |
 | Produto Escalar | X | X | X | |
