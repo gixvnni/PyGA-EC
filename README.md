@@ -20,8 +20,8 @@ https://github.com/user-attachments/assets/e98604a1-5961-44ec-b3e1-68e41bd84a10
 
 |  Tema  | Apresentação Geral |Demonstração Computacional|Problemas Aplicados| Vídeos Explicativos: Problemas Resolvidos em Python|
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Vetores | X | X | X |  [Operações Com Vetores](https://drive.google.com/file/d/1jkq3JfoXHdlSV2rSbP5cNRWVX2UIjhao/view)  |
-| Produto Escalar | X | X | X | [Operação Com Produto Escalar](https://drive.google.com/file/d/1Qfxp51RykBke2TKlp7o2mbJklkOPtriP/view) |
+| Vetores | X | X | X |  [Soma e decomposição de vetores](https://drive.google.com/file/d/1jkq3JfoXHdlSV2rSbP5cNRWVX2UIjhao/view)  |
+| Produto Escalar | X | X | X | [Encontrando ângulos a partir do produto escalar](https://drive.google.com/file/d/1Qfxp51RykBke2TKlp7o2mbJklkOPtriP/view) |
 | Produto Vetorial | X | X | X | |
 | Produto Misto | X | X | X | |
 | Estudo da Reta | X | X | X | |
